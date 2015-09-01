@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Notebooks and Fixtures
+.ipynb_checkpoints
+fixtures/*
+!fixtures/*.tgz
+!fixtures/*.zip
